@@ -26,7 +26,6 @@ except:
     os.system('pip3 install aiohttp')
     os.system('pip3 install colorama')
 
-scripting()
 yellow = f"{Fore.YELLOW}{Style.BRIGHT}"
 red = f"{Fore.RED}{Style.BRIGHT}"
 green = f"{Fore.GREEN}{Style.BRIGHT}"
