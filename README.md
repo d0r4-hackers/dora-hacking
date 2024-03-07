@@ -1,5 +1,6 @@
-# Telegram : @Chrome2024
-# Donate BTC : 17L22i227Keet23QCNaeCyrQ6xfiTQpQJ5
+Telegram : `@Chrome2024`
+
+Donate BTC : `17L22i227Keet23QCNaeCyrQ6xfiTQpQJ5`
 
 # Dora-hacking: Effectively Discovering Security Vulnerabilities
 
