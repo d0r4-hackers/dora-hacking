@@ -31,6 +31,7 @@ red = f"{Fore.RED}{Style.BRIGHT}"
 green = f"{Fore.GREEN}{Style.BRIGHT}"
 reset = f"{Style.RESET_ALL}"
 def banner():
+    scripting()
     print("""
 1, Denial Of Service Attack ( DoS Attack )
 2, Generator Credit Card Generator ( gen CC )
